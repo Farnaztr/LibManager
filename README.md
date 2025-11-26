@@ -2,42 +2,42 @@
 
 A comprehensive Windows Forms application developed in C# for managing library operations in educational institutions. This system provides secure access, member management, and book inventory control with a user-friendly Persian interface.
 
-## 📋 Project Overview
+## Project Overview
 
 This library management system was designed specifically for school libraries, featuring a secure login system, member registration, book cataloging, and advanced search capabilities. The application follows a structured approach to data management using multi-dimensional arrays for efficient storage and retrieval.
 
 ## Features
 
-### 🔐 Authentication System
+### Authentication System
 - Secure admin login with attempt limiting
 - Account lockout after 3 failed attempts (1-minute timer)
 - Session management and access control
 
-### 👥 Member Management
+### Member Management
 - Complete member profile registration
 - Personal information storage (name, contact, national ID)
 - Profile picture upload and management
 - Member ID generation and tracking
 
-### 📚 Book Catalog System
+### Book Catalog System
 - Comprehensive book information storage
 - Support for multiple book attributes (title, author, publisher, etc.)
 - ISBN and publication year tracking
 - Book cover image management
 
-### 🔍 Advanced Search
+### Advanced Search
 - Multi-criteria search functionality
 - Search by book title, author, subject, or publication year
 - Real-time results display
 - Persian text support
 
-### 🎨 User Interface
+### User Interface
 - Persian RTL interface design
 - Real-time clock and date display
 - Tab-based navigation
 - Responsive form controls
 
-## 🛠 Technical Implementation
+## Technical Implementation
 
 ### Data Structure
 ```csharp
@@ -72,7 +72,7 @@ string[,] book = new string[7, 100];
 - Password: `123`
 
 
-## 💻 Usage Guide
+## Usage Guide
 
 ### Administrator Login
 1. Launch the application
@@ -100,7 +100,7 @@ string[,] book = new string[7, 100];
 3. Click search button
 4. View results in message box
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Security Features
 - Input validation and error handling
@@ -126,7 +126,7 @@ string[,] book = new string[7, 100];
 
 <div align="center">
 
-### 📸 Application Screenshots
+### Application Screenshots
 
 <img src="https://github.com/user-attachments/assets/827e1033-3a4f-4cf9-9ec4-9af1a982371a" width="35%">
 <img src="https://github.com/user-attachments/assets/5caa444a-6047-4448-88d6-537e6bd6d596" width="35%">
@@ -138,7 +138,7 @@ string[,] book = new string[7, 100];
 
 </div>
 
-## 🎯 Project Achievements
+## Project Achievements
 
 ✅ Complete authentication system  
 ✅ Dual-language support (Persian/English)  
