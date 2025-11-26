@@ -138,13 +138,3 @@ string[,] book = new string[7, 100];
 
 </div>
 
-## Project Achievements
-
-✅ Complete authentication system  
-✅ Dual-language support (Persian/English)  
-✅ Robust data management  
-✅ Advanced search capabilities  
-✅ Professional UI/UX design  
-✅ Comprehensive error handling  
-✅ Efficient memory usage  
-✅ Scalable architecture
