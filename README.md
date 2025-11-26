@@ -46,145 +46,109 @@ string[,] member = new string[6, 100];
 
 // Book data storage: [7 attributes] × [100 books]
 string[,] book = new string[7, 100];
-
-// Tracking variables
-int memberCount = 0;
-int bookCount = 0;
 ```
-
 ## Core Components
 
-Login Form: Authentication and access control
+- **Login Form**: Authentication and access control
+- **Main Form**: Primary application interface with tab controls
+- **Member Management**: Registration and data handling
+- **Book Management**: Cataloging and search functionality
 
-Main Form: Primary application interface with tab controls
+## Installation & Setup
 
-Member Management: Registration and data handling
+### Prerequisites
+- .NET Framework 4.7.2 or later
+- Visual Studio 2019+
+- Windows OS
 
-Book Management: Cataloging and search functionality
+### Running the Application
+1. Clone the repository
+2. Open the solution in Visual Studio
+3. Build the solution (Ctrl+Shift+B)
+4. Run the application (F5)
 
-🚀 Installation & Setup
-Prerequisites
-.NET Framework 4.7.2 or later
+### Default Credentials
+- Username: `admin`
+- Password: `123`
 
-Visual Studio 2019+
-
-Windows OS
-
-Running the Application
-Clone the repository
-
-Open the solution in Visual Studio
-
-Build the solution (Ctrl+Shift+B)
-
-Run the application (F5)
-
-Default Credentials
-Username: admin
-
-Password: 123
-
-📁 Project Structure
-text
+## 📁 Project Structure
 LibraryManagementSystem/
 ├── Forms/
-│   ├── Login.cs                 # Authentication form
-│   ├── MainForm.cs              # Primary application interface
-│   └── ...
-├── Properties/                  # Application properties
-├── Resources/                   # Images and resources
-├── App.config                   # Configuration file
-└── Program.cs                   # Application entry point
-💻 Usage Guide
-Administrator Login
-Launch the application
+│ ├── Login.cs # Authentication form
+│ ├── MainForm.cs # Primary application interface
+│ └── ...
+├── Properties/ # Application properties
+├── Resources/ # Images and resources
+├── App.config # Configuration file
+└── Program.cs # Application entry point
 
-Click "Manager Login"
+text
 
-Enter admin credentials
+## 💻 Usage Guide
 
-Access granted to member and book management tabs
+### Administrator Login
+1. Launch the application
+2. Click "Manager Login"
+3. Enter admin credentials
+4. Access granted to member and book management tabs
 
-Managing Members
-Navigate to "Members" tab
+### Managing Members
+1. Navigate to "Members" tab
+2. Fill member information form
+3. Upload profile picture
+4. Click "Register" to save
+5. Use "New" to clear form
 
-Fill member information form
+### Managing Books
+1. Navigate to "Books" tab
+2. Enter book details
+3. Upload book cover image
+4. Click "Register" to catalog
+5. Use search functionality to locate books
 
-Upload profile picture
+### Searching Library
+1. Select search criteria (title/author/subject/year)
+2. Enter search term
+3. Click search button
+4. View results in message box
 
-Click "Register" to save
+## 🔧 Technical Details
 
-Use "New" to clear form
+### Security Features
+- Input validation and error handling
+- Attempt-limited authentication
+- Session-based access control
+- Data integrity checks
 
-Managing Books
-Navigate to "Books" tab
+### Data Management
+- Array-based storage system
+- Efficient memory utilization
+- Simple data retrieval methods
+- Scalable structure
 
-Enter book details
+### UI/UX Design
+- Persian language support
+- Right-to-left layout
+- Intuitive form design
+- Real-time feedback
 
-Upload book cover image
+## 📸 Application Screenshots
 
-Click "Register" to catalog
 
-Use search functionality to locate books
 
-Searching Library
-Select search criteria (title/author/subject/year)
+- Login Interface: Secure authentication screen
+- Main Dashboard: Tab-based navigation interface
+- Member Registration: Complete member profile form
+- Book Cataloging: Comprehensive book information form
+- Search Results: Query output display
 
-Enter search term
+## 🎯 Project Achievements
 
-Click search button
-
-View results in message box
-
-🔧 Technical Details
-Security Features
-Input validation and error handling
-
-Attempt-limited authentication
-
-Session-based access control
-
-Data integrity checks
-
-Data Management
-Array-based storage system
-
-Efficient memory utilization
-
-Simple data retrieval methods
-
-Scalable structure
-
-UI/UX Design
-Persian language support
-
-Right-to-left layout
-
-Intuitive form design
-
-Real-time feedback
-
-📸 Application Screenshots
-
-(Add your screenshots here with descriptive captions)
-
-Login Interface: Secure authentication screen
-
-Main Dashboard: Tab-based navigation interface
-
-Member Registration: Complete member profile form
-
-Book Cataloging: Comprehensive book information form
-
-Search Results: Query output display
-
-🎯 Project Achievements
-
-✅ Complete authentication system
-✅ Dual-language support (Persian/English)
-✅ Robust data management
-✅ Advanced search capabilities
-✅ Professional UI/UX design
-✅ Comprehensive error handling
-✅ Efficient memory usage
+✅ Complete authentication system  
+✅ Dual-language support (Persian/English)  
+✅ Robust data management  
+✅ Advanced search capabilities  
+✅ Professional UI/UX design  
+✅ Comprehensive error handling  
+✅ Efficient memory usage  
 ✅ Scalable architecture
