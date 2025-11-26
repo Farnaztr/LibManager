@@ -2,7 +2,7 @@
 
 A comprehensive Windows Forms application developed in C# for managing library operations in educational institutions. This system provides secure access, member management, and book inventory control with a user-friendly Persian interface.
 
-## Project Overview
+## 📋 Project Overview
 
 This library management system was designed specifically for school libraries, featuring a secure login system, member registration, book cataloging, and advanced search capabilities. The application follows a structured approach to data management using multi-dimensional arrays for efficient storage and retrieval.
 
@@ -121,12 +121,12 @@ string[,] book = new string[7, 100];
 - Real-time feedback
 
 
-
+---
+## Application Screenshots
 
 
 <div align="center">
 
-### Application Screenshots
 
 <img src="https://github.com/user-attachments/assets/827e1033-3a4f-4cf9-9ec4-9af1a982371a" width="35%">
 <img src="https://github.com/user-attachments/assets/5caa444a-6047-4448-88d6-537e6bd6d596" width="35%">
