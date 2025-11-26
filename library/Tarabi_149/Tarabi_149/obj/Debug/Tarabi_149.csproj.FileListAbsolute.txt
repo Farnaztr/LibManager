@@ -1,0 +1,12 @@
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\bin\Debug\Tarabi_149.exe.config
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\bin\Debug\Tarabi_149.exe
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\bin\Debug\Tarabi_149.pdb
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.csproj.AssemblyReference.cache
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.Form1.resources
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.Properties.Resources.resources
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.csproj.GenerateResource.cache
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.csproj.CoreCompileInputs.cache
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.exe
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.pdb
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.Login.resources
+D:\Programming\c#\11th programs\Tarabi_149\Tarabi_149\obj\Debug\Tarabi_149.Form2.resources
