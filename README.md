@@ -71,18 +71,6 @@ string[,] book = new string[7, 100];
 - Username: `admin`
 - Password: `123`
 
-## 📁 Project Structure
-LibraryManagementSystem/
-├── Forms/
-│ ├── Login.cs # Authentication form
-│ ├── MainForm.cs # Primary application interface
-│ └── ...
-├── Properties/ # Application properties
-├── Resources/ # Images and resources
-├── App.config # Configuration file
-└── Program.cs # Application entry point
-
-text
 
 ## 💻 Usage Guide
 
@@ -132,15 +120,23 @@ text
 - Intuitive form design
 - Real-time feedback
 
-## 📸 Application Screenshots
 
 
 
-- Login Interface: Secure authentication screen
-- Main Dashboard: Tab-based navigation interface
-- Member Registration: Complete member profile form
-- Book Cataloging: Comprehensive book information form
-- Search Results: Query output display
+
+<div align="center">
+
+### 📸 Application Screenshots
+
+<img src="https://github.com/user-attachments/assets/827e1033-3a4f-4cf9-9ec4-9af1a982371a" width="45%">
+<img src="https://github.com/user-attachments/assets/5caa444a-6047-4448-88d6-537e6bd6d596" width="45%">
+
+<img src="https://github.com/user-attachments/assets/87a6a061-e195-40c6-9442-024265be9dd2"  width="45%">
+
+<img src="https://github.com/user-attachments/assets/45ff3000-7ca9-4853-bded-ffb68e7d1141" width="45%"/>
+
+
+</div>
 
 ## 🎯 Project Achievements
 
