@@ -132,8 +132,8 @@ string[,] book = new string[7, 100];
 
 <img src="https://github.com/user-attachments/assets/827e1033-3a4f-4cf9-9ec4-9af1a982371a" width="35%">
 <img src="https://github.com/user-attachments/assets/5caa444a-6047-4448-88d6-537e6bd6d596" width="35%">
-<img src="https://github.com/user-attachments/assets/520f46ca-9d71-4e5f-a285-31d0e76088e9" width="35%"/>
-<img src="https://github.com/user-attachments/assets/a551ca47-deab-491b-b151-e468b2f69950" width="40%"/>
+<img src="https://github.com/user-attachments/assets/f7a108e0-8eae-4aee-b8ab-bc65a810af04"  width="35%"/>
+<img src="https://github.com/user-attachments/assets/64efe871-0da6-4e15-8cf8-d08e79ffdea5" width="35%"/>
 
 <img src="https://github.com/user-attachments/assets/45ff3000-7ca9-4853-bded-ffb68e7d1141" width="35%">
 
