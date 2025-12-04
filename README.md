@@ -26,7 +26,7 @@ This library management system was designed specifically for libraries, featurin
 - Support for multiple book attributes (title, author, publisher, etc.)
 - ISBN and publication year tracking
 - Book cover image management
-
+  
 ### Advanced Search
 - Multi-criteria search functionality
 - Search by book title, author, subject, or publication year
