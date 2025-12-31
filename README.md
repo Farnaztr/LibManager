@@ -1,6 +1,6 @@
 # LibManager
 
-A comprehensive Windows Forms application developed in C# for managing library operations. This system provides secure access, member management, and book inventory control with a user-friendly Persian interface.
+A comprehensive Windows Forms application developed in C# for managing library operations. This system provides secure access, member management, and book inventory control with a user-friendly interface.
 
 ---
 
